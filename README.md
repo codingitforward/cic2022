@@ -1,7 +1,7 @@
 ### Introduction
 The [Civic Innovation Corps](https://www.codingitforward.com/summer-fellowships) is empowering the next generation of technology leaders to innovate at the intersections of technology and public service in state, county, and local government offices across the United States. Fellows work across software engineering, data, design, and product management to deliver policy, improve systems, and strengthen products on behalf of the American people. 
 
-We are grateful for agency partners who provided our Fellows with the opportunity to serve and grow this summer: 
+We are grateful for host office partners who provided our Fellows with the opportunity to serve and grow this summer: 
 - **Arapahoe County, CO:** Department of Information Technology Digital Services Team
 - **Athens-Clarke County, GA:** County Manager
 - **Austin, TX:** Transportation (Data & Technology Services)
@@ -24,14 +24,12 @@ We are grateful for agency partners who provided our Fellows with the opportunit
 - **Syracuse, NY:** Digital Services Team
 - **Utah:** Governor’s Office of Planning and Budget
 
-Meet the 59 young technologists who served in our seventh cohort: [Introducing the 2022 Coding it Forward Fellows](https://blog.codingitforward.com/introducing-the-2022-coding-it-forward-fellows-b14bac95c58f)
+Meet the 59 young technologists who served in our second cohort: [Introducing the 2022 Coding it Forward Fellows](https://blog.codingitforward.com/introducing-the-2022-coding-it-forward-fellows-b14bac95c58f)
 
 This repository features the slides that Fellows presented during their respective end-of-summer presentations at their host offices. View a recording of Coding it Forward’s [virtual end-of-summer celebration](https://www.youtube.com/watch?v=X5t_Bma0QYQ&t), with keynote remarks from Erie Meyer, Chief Technologist at the Consumer Financial Protection Bureau.
 
 ### About the Fellows 
 **_Kindly note that if a Fellow's biography does not have a link, their work is not publicly available._**
-
-**Alex Perez**
  
 **Alina Spatz** is a rising junior at the Rhode Island School of Design studying Graphic Design with a concentration in Computation, Technology, and Culture. This summer, she worked as a Design Fellow for the Athens-Clarke County Geospatial Information Office on several products focusing on equity, non-profit collaboration, and integrating the community's lived experiences with data visualization. She designed the identity, visuals, and content for the Neighborhood Snapshot website and built its layout in ArcGIS. The platform gives residents tools to learn more about the county's 16 elementary school attendance zones, explore interactive data, and get in touch with local resources. | [Presentation](Vignesh_Venkatachalam_Alina_Spatz.pdf)
 
@@ -58,10 +56,6 @@ This repository features the slides that Fellows presented during their respecti
 **Chen Sean Huang** is a Master’s candidate for Engineering & Management in Human-Centered Design at the Massachusetts Institute of Technology. This summer, he worked at the City of San José Mayor’s Office of Technology and Innovation as a User Experience Fellow, together with Angela The and Nikita Kalje to revamp a new Digital Inclusion Fund website for San Joséans. Leveraging human-centered design tools, he helped better define users’ needs and pain points, re-structure the information architecture of the previous website, and visualize the whole content in a more user-friendly fashion. | [Presentation](Angela_The_Nikita_Kalje_Sean_Huang.pdf) 
 
 **Christina Andrade** is a second-year graduate student at San José State University studying Human Factors and Ergonomics with a focus in Human-Computer Interaction. This summer, she worked at Arapahoe County on the Digital Services team, helping to develop a reusable user research framework and to research the current state of customer engagement for the Motor Vehicles (MV) department. Her work focused on developing and coalescing insights from over 1,500 qualitative survey responses, Google analytics, user interviews, and user observations into personas and findings for eight key MV research questions. Her efforts also resulted in a reusable user research framework and a volunteer recruitment database for the county to use in future research initiatives. | [Presentation](Christina_Andrade.pdf) 
-
-**Destiny Tisdale**
-
-**Devon Grussmark**
  
 **Diya Baliga** is a rising junior at the University of California - Los Angeles studying Computer Science and Engineering. This summer, she worked at the City of Long Beach with the Technology and Innovation Office and Office of Sustainability, alongside Joyce Mok and Yuxin Zheng, to design, build, and maintain technology aiding the city's climate action initiatives. Together, they created an improved dashboard communicating the purpose and progress of the city's Climate Action and Adaptation Plan. They additionally ideated and built a web application to support urban greening programs in Long Beach. Her work will support the launch and maintenance of the action plan and allow residents to access critical green infrastructure.
 
@@ -70,8 +64,6 @@ This repository features the slides that Fellows presented during their respecti
 **Elsie Mpere**
  
 **Evan Doran** is a second-year Master of Public Administration graduate student at the University of Georgia. This summer, he worked at the State of Missouri Office of Administration in the Division of Personnel, analyzing data and conducting independent research on state employee turnover. His work simplified data and analysis from 16 agencies, 140 divisions, and 39,000 employees for non-data audiences, providing important workforce context and information ahead of the upcoming Missouri legislative session, where turnover remains a prescient issue. | [Presentation](Evan_Doran.pdf) 
-
-**Evelyn Chen**
  
 **Francesca Loiodice** is a recent graduate of Barnard College, where she studied Computer Science. This summer, she worked at the City of Long Beach, developing tools to prepare the Public Works Department for the influx of federal grants over the next several fiscal years. As a part of this effort, she built a grant toolkit to provide staff with resources and support throughout the complex grant process. | [Presentation](Francesca_Loiodice.pdf) 
 
@@ -92,8 +84,6 @@ This repository features the slides that Fellows presented during their respecti
 **Jingyi Huang** is a second-year Master's student at Carnegie Mellon University studying Public Policy and Data Analytics. This summer, she worked at the New York City Department of City Planning on the Data Engineering Team, alongside Andrew Brieff, helping to implement regular updates of core data products, build out pipelines to ingest source data, and develop quality asssurance and control applications for multiple data products. | [Presentation](Andrew_Brieff_Jingyi_Huang.pdf) 
 
 **Joseline Ayala** is a graduate student at San Diego State University studying Big Data Analytics. This summer, she worked at the Utah Governor’s Office of Planning & Budget to create interactive data visualizations depicting how projects funded by Utah taxpayer dollars are progressing. In addition, Joseline helped solve back-end issues relating to database management and process improvements to ensure data is more accessible, accurate, and responsive to users.
-
-**Josh Klein**
  
 **Joyce Mok** is a rising senior at the University of California - Los Angeles studying Cognitive Science and Statistics. This summer, she worked at the City of Long Beach with the Technology and Innovation Office and the Office of Sustainability, alongside Diya Baliga and Yuxin Zheng, to further the city’s climate action initiatives using human-centered design. As a team, they improved the city’s existing Climate Action and Adaptation dashboard to communicate its climate action goals better. They also created a web application to support the Office of Sustainability’s urban greening program. Overall, their work improved upon existing technology infrastructures to help Long Beach move forward in achieving its sustainability goals.
 
@@ -103,35 +93,23 @@ This repository features the slides that Fellows presented during their respecti
 
 **Mahima Varanasi** is a recent graduate of the University of Southern California with a degree in Industrial and Systems Engineering. This summer, she worked at the City of Charlotte on the Smart Cities Team to develop and plan out tools for their community, including a public Wi-Fi Finder and a Community Engagement Hub. Additionally, she focused her work on accessibility and the end-user experience, which led to several recommendations for the city staff to implement as they go about updating their existing websites and tools as part of their digital inclusion strategy. | [Presentation](Mahima_Varanasi.pdf)  
 
-**Marina DeFrates** | [Presentation](Heewon_Kown_Marina_DeFrates_Srinidhi_Ramakrishna.pdf)
-
-**Megan Hussey**
- 
-**Narmin Mammadsoy**
-
 **Nikita Kalje** is a rising senior at Santa Clara University studying Mathematics and Computer Science. This summer, she worked at the City of San José Mayor’s Office of Technology and Innovation as a Front-End Engineering Fellow alongside Angela The and Chen Sean Huang. She developed a website for San José’s Digital Inclusion fund, utilizing various languages and frameworks to take the designs and convert them into code. She also connected the website to the back-end code and database. Her work will go on to impact tens of thousands of donors, grantees, and San Joséans to allow them to receive access to more resources to be more digitally connected than before. | [Presentation](Angela_The_Nikita_Kalje_Sean_Huang.pdf)
 
 **Olaoluwa Adewoye** is a rising junior at Bowie State University studying Computer Technology. This summer, he worked at the City of Philadelphia Fire Department in the GIS Department, helping migrate large projects to the department's new domain. His main work focused on the creation of a widget that would be able to autofill PDF report templates from the selection of a feature in a map layer.
 
 **Parita Shah** is a rising junior at Harvard University studying Computer Science on the Mind, Brain, and Behavior track. This summer, Parita worked for the City of El Paso as part of the User Experience team, alongside Alyson Lam and Yuval Keren, to build an augmented reality application that allows users to interact with local art by projecting images at designated hotspots throughout the city.  This application was developed as part of a larger effort to meet El Paso's strategic planning goals by making innovative technology more visible and accessible to residents. The team's work will be launched at El Paso's annual Chalk the Block festival in October 2022, where it has the potential to be utilized by 45,000 individuals. | [Presentation](Yuval_Keren_Alyson_Lam_Parita_Shah.pdf)
 
-**Pierson Cooke**
-
 **Rebecca Brand** is a rising second-year candidate for the Master in Design Engineering at Harvard University. This summer, she worked for the City of Austin Transportation Department within its Data & Technology Services division. Her project included the design of a new visualization platform to map the city’s ongoing mobility projects, promoting data transparency and conversations around sustainability and equity in urban environments. | [Presentation](Rebecca_Brand.pdf)  
 
 **Reginald Mousa Touré** is a rising senior at Virginia State University studying Computer Science. This summer, he worked at the Los Angeles Mayor’s Office of Budget and Innovation on their Data Team. He was tasked with recreating a nationwide study by The Urban Institute that analyzed denial rates and racial disparities in the mortgage market. His work involved using R to wrangle anonymized Home Mortgage Disclosure Act data from the Federal Financial Institutions Examination Council’s data browser and clean it to exclusively analyze the City of Los Angeles on a census tract level. Mousa provided data that cross-analyzed applicant race, occupancy location by census tract, denial reasons, occupancy type, and loan purpose for use on the Office’s Racial Equity site. He also used ArcGIS to geographically map denial rates and demographics on a publically available interactive dashboard. | [Presentation](Reginald_Toure.pdf)  
 
 **Rose Eichelmann** is a recent graduate from the University of Texas at Austin, where she studied Sustainability and Geography. This summer, she worked at the Austin Transportation Department in the Data & Technology Services team as a Full-Stack Engineer, where she contributed to the City's open source codebase resulting in her features being a part of the latest release of the Vision Zero Platform. | [Presentation](Rose_Eichelmann.pdf)
-
-**Sasha Filippova**
  
 **Shahnoza “Shanna” Kurbonshoeva** is a Master's student at Baruch College’s Marxe School of Public and International Affarirs. This summer, she worked at the the Des Moines City Manager’s Office on the Key Performance Measurement Initiative alongside Tiffany Mar, analyzing 12 departments' yearly key performance indicator (KPI) data and researching best practices to develop and visualize KPIs. Her work resulted in the creation of 13 web pages on the city website to display the measures. | [Presentation](Shanna_Kurbonshoeva_and_Tiffany_Marr.pdf)
 
 **Shannon Lin** is a recent graduate of the University of Pennsylvania with a Master's in Engineering and a Bachelor's in Engineering and Cconomics. This past summer, she worked as a Product Manager for the City of Long Beach Smart City Initiative. Her work included building a platform with online and offline components to better support the transparency and accountability of the city's smart-city technology. | [Presentation](Asher_Lipman_Shannon_Lin.pdf)
 
 **Shuxin Zhou** is a recent graduate of Pomona College, where she studied Computer Science and Sociology. This summer, she worked with the City of Syracuse’s Digital Services team, helping to create a chatbot for the city website. Her work resulted in all of Syracuse (population of 142,553) being able to ask more than a hundred questions to the chatbot about the city of Syracuse's services, recreational activities, and more. | [Presentation](Shuxin_Zhou.pdf) 
-
-**Shuyan Yan**
 
 **Soma Sai Kumar Badri** is a second-year master's student at Northeastern University studying Computer Science. This summer, he worked at the New Jersey Office of Innovation on the Business First Stop team alongside AnJu Hyppolite. They worked on developing the Navigator, a one-stop application that allows entrepreneurs to create and maintain a business in the state of New Jersey. | [Presentation](Soma_Badri_AnJu_Hyppolite.pdf) 
 
@@ -147,7 +125,5 @@ This repository features the slides that Fellows presented during their respecti
 
 **Yuval Keren** | [Presentation](Yuval_Keren_Alyson_Lam_Parita_Shah.pdf)
  
-**Zasca Ristianto**
-
 ### Contact
 Please contact [our team](https://www.codingitforward.com/contact) with any questions.
